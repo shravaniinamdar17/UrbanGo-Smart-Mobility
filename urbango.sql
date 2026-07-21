@@ -1,0 +1,5 @@
+CREATE DATABASE IF NOT EXISTS urbango CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+
+USE urbango;
+
+SET FOREIGN_KEY_CHECKS=0;
